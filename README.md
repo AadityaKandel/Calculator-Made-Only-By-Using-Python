@@ -1,4 +1,1 @@
-# Calculator-Made-Only-By-Using-Python
-No Extra Packages Needed. The Best Calculator Using Python.
-
-########################################################
+# The Calculator Of 13 Lines. Only 263 Bytes. Using Python. HaHaHa.
